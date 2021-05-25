@@ -1,7 +1,7 @@
 # Latharael
 
 A fantasy universe where the goal is to learn, grow, adapt, and survive. This
-is a simulated world in which automated scripts attempt to thrive.
+is a simulated world in which scripted player characters attempt to thrive.
 
 ## Motivation
 
