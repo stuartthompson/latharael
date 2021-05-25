@@ -53,12 +53,11 @@ This project documents significant changes in the included
 
 ## Issues
 
-Bugs, issues, change requests, and other feedback are tracked here:
-[Issues](https://github.com/stuartthompson/latharael/issues)
+Bugs, issues, change requests, and other feedback are tracked in
+[ISSUES](https://github.com/stuartthompson/latharael/issues)
 
 ## Roadmap
 
 A rough project roadmap *(not necessarily in alignment with the project
 milestones or issues list)* is maintained in the included
-[ROADMAP](https://github.com/stuartthompson/latharael/blob/omega/ROADMAP.md)
-file.
+[ROADMAP](https://github.com/stuartthompson/latharael/blob/omega/ROADMAP.md).
