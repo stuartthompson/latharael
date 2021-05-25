@@ -1,0 +1,13 @@
+[package]
+name = "latharael"
+version = "0.0.1"
+authors = ["Stuart Thompson <stuart@stuartthompson.net>"]
+edition = "2018"
+description = "A fantasy universe where the players are LUA scripts and the goal is to survive."
+documentation = "https://docs.statn.dev/latharael"
+readme = "https://github.com/stuartthompson/latharael/blob/omega/README.md"
+homepage = "https://github.com/stuartthompson/latharael/blob/omega/README.md"
+repository = "https://github.com/stuartthompson/latharael"
+license = "GPL-3.0-or-later"
+
+[dependencies]
