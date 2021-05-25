@@ -5,7 +5,7 @@ is a simulated world in which automated scripts attempt to thrive.
 
 ## Motivation
 
-This software was written to grant the author a journey. I wanted to build a
+This software was written to grant the author a journey. I wanted to build a 
 game where players described their actions as a set of scripted responses as
 opposed to playing their characters directly. The objective for the players is
 to understand how to craft a better automated operator to survive and to grow
@@ -40,3 +40,25 @@ their relations to the overall world tick cycle being explained and
 documented in sufficiently reasonable detail as to allow a player character
 author to understand how they may adapt and change their player script to
 effect improved or, at the least, different actions in future iterations.
+
+## License
+
+Please see the included 
+[LICENSE](https://github.com/stuartthompson/latharael/blob/omega/LICENSE.md).
+
+## Changelog
+
+This project documents significant changes in the included 
+[CHANGELOG](https://github.com/stuartthompson/latharael/blob/omega/CHANGELOG.md).
+
+## Issues
+
+Bugs, issues, change requests, and other feedback are tracked here:
+[Issues](https://github.com/stuartthompson/latharael/issues)
+
+## Roadmap
+
+A rough project roadmap *(not necessarily in alignment with the project
+milestones or issues list)* is maintained in the included
+[ROADMAP](https://github.com/stuartthompson/latharael/blob/omega/ROADMAP.md)
+file.
